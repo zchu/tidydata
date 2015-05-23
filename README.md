@@ -9,7 +9,7 @@ How to Use this Code:
 
 1. Please install the dplyr package if you haven't done so. You can use install.packages("dplyr") to install the package.
 2. Set the working directory as the folder of samsung data such as ".../UCI HAR Dataset"
-3. Run the data, the output file tidydata.txt will be in your working directory.
+3. Run the code, the output file tidydata.txt will be generated in your working directory.
 
 
 
@@ -61,7 +61,7 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-Then those values are calculated by group of subject and activities:
+Then those values' mean and standard deviation are calculated by group of subject and activities:
 
 The complete list of 68 variables of each feature vector is available as following:
 1	subject
