@@ -70,7 +70,7 @@ The complete list of 68 variables of each feature vector is available as followi
 4	tBodyAcc_std_Y
 5	tBodyAcc_std_Z
 6	tGravityAcc_std_X
-7	tGravityAcc_std_Y   
+7	tGravityAcc_std_Y
 8	tGravityAcc_std_Z  
 9	tBodyAccJerk_std_X
 10	tBodyAccJerk_std_Y
