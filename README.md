@@ -64,13 +64,14 @@ tBodyGyroJerkMean
 Then those values' mean and standard deviation are calculated by group of subject and activities:
 
 The complete list of 68 variables of each feature vector is available as following:
+
 1	subject
 2	activity
-3	tBodyAcc_std_X  
+3	tBodyAcc_std_X
 4	tBodyAcc_std_Y
 5	tBodyAcc_std_Z
 6	tGravityAcc_std_X
-7	tGravityAcc_std_Y
+7	tGravityAcc_std_Y   
 8	tGravityAcc_std_Z  
 9	tBodyAccJerk_std_X
 10	tBodyAccJerk_std_Y
@@ -119,16 +120,16 @@ The complete list of 68 variables of each feature vector is available as followi
 53	tBodyAccJerkMag_mean 
 54	tBodyGyroMag_mean 
 55	tBodyGyroJerkMag_mean
-56	fBodyAcc_mean_X   
+56	fBodyAcc_mean_X
 57	fBodyAcc_mean_Y  
-58	fBodyAcc_mean_Z  
-59	fBodyAccJerk_mean_X  
-60	fBodyAccJerk_mean_Y  
+58	fBodyAcc_mean_Z
+59	fBodyAccJerk_mean_X
+60	fBodyAccJerk_mean_Y
 61	fBodyAccJerk_mean_Z  
-62	fBodyGyro_mean_X   
+62	fBodyGyro_mean_X
 63	fBodyGyro_mean_Y  
 64	fBodyGyro_mean_Z   
 65	fBodyAccMag_mean
-66	fBodyBodyAccJerkMag_mean  
-67	fBodyBodyGyroMag_mean  
-68	fBodyBodyGyroJerkMag_mean 
+66	fBodyBodyAccJerkMag_mean
+67	fBodyBodyGyroMag_mean
+68	fBodyBodyGyroJerkMag_mean
